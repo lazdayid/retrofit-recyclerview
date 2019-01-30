@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Retrofit Demo Project</string>
+
+    <string name="foo">Lore Ipsum</string>
+
+    <string name="button_more">Selengkapnya</string>
+
+    <string name="intent_title">title</string>
+    <string name="intent_backdrop_path">backdrop_path</string>
+    <string name="intent_overview">overview</string>
+</resources>
